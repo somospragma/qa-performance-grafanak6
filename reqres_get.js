@@ -1,18 +1,10 @@
 import http from 'k6/http';
 import {sleep} from 'k6';
+import {stagesLoad} from './stages.js';
 
 
 export const options={
-    stages:[{
-        duration: '10s',
-        target: 10
-    },{
-        duration: '40s',
-        target: 10
-    },{
-        duration: '10',
-        target: 0
-    }]
+    stages: stagesLoad
 };
 
 
