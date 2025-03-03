@@ -1,9 +1,42 @@
-# Arquetipo proyecto base K6 javascript y graficador de Stages
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://f.hubspotusercontent20.net/hubfs/2829524/Copia%20de%20LOGOTIPO_original-2.png"></a>
+  <br>
+  Arquetipo proyecto base K6 javascript y graficador de Stages
+  <br>
+</h1>
 
-![k6](https://img.shields.io/badge/k6-0.53.0-blue)
-![Node.js](https://img.shields.io/badge/Node.js-22.11.0-green)
-![Grafana](https://img.shields.io/badge/Grafana-Supported-orange)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-Compatible-blue)
+<h4 align="center">Proyecto base de <a href="https://github.com/karatelabs/karate" target="_blank">Pragma</a>.</h4>
+
+<p align="center">
+<a href="https://grafana.com/oss/k6/">
+    <img src="https://img.shields.io/badge/k6-0.53.0-blue" alt="k6">
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-22.11.0-green" alt="Node.js">
+  </a>
+  <a href="https://grafana.com/">
+    <img src="https://img.shields.io/badge/Grafana-Supported-orange" alt="Grafana">
+  </a>
+  <a href="https://www.influxdata.com/">
+    <img src="https://img.shields.io/badge/InfluxDB-Compatible-blue" alt="InfluxDB">
+  </a>
+</p>
+
+El siguiente proyecto es una herramienta para generar gráficos y diseñar propuestas de pruebas de Performance realizada en Java Script integrado al proyecto base de K6, a partir de los stages propuestos en el mismo.
+
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#estructura-de-proyecto">Estructura de proyecto</a> •
+  <a href="#features">Features</a> •
+  <a href="#estructura-de-proyecto">Estructura de proyecto</a> •
+  <a href="#ejecución-local">Ejecución local</a> •
+  <a href="#generar-gráficas-de-los-stages">Generar gráficas de los stages</a> •
+  <a href="#ejecución-de-las-pruebas">Ejecución de las pruebas</a> •
+  <a href="#autores">Autores</a> •
+  <a href="#relacionados">Relacionados</a> •
+  <a href="#roadmap">Roadmap</a>
+</p>
 
 ## Features
 
@@ -79,3 +112,14 @@ En el directorio del proyecto
 
 | [<img src="https://gitlab.com/uploads/-/system/user/avatar/25199087/avatar.png?width=800" width=115><br><sub>Laura María Granados García</sub>](https://gitlab.com/laura.granados) <br/> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
+## Relacionados
+
+- [qa-performance-k6-desing-gui](https://github.com/somospragma/qa-performance-k6-desing-gui)
+
+
+## Roadmap
+
+- [Guia QA](https://github.com/orgs/somospragma/repositories?q=qa) - (En construcción) Una guia de proyectos Orientados a la Calidad de Software
+
